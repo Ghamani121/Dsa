@@ -1,3 +1,5 @@
+package A1_Simple_Java_Programs;
+
 import java.util.Scanner;
 
 class Solution
@@ -45,7 +47,7 @@ public class HappyNumber
 
 //import java.util.Scanner;
 
-//class Solution {
+//class A1_Simple_Java_Programs.Solution {
 //    public boolean isHappy(int n)
 //    {
 //        int rem,value=0;

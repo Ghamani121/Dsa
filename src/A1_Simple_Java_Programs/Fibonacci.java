@@ -1,9 +1,11 @@
+package A1_Simple_Java_Programs;
+
 import java.util.Scanner;
 
 public class Fibonacci {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("Enter the Fibonacci value you need");
+        System.out.println("Enter the A1_Simple_Java_Programs.Fibonacci value you need");
         int n=in.nextInt();
         System.out.println("Enter input 1");
         int n1=in.nextInt();

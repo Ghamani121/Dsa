@@ -1,3 +1,5 @@
+package A1_Simple_Java_Programs;
+
 import java.util.Scanner;
 class TwoSum {
     public static void main(String[] args){
