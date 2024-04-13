@@ -1,12 +1,11 @@
-package A1_Simple_Java_Programs;
-
+package A1SimpleJavaPrograms;
 import java.util.Scanner;
 class TwoSum {
     public static void main(String[] args){
         Scanner in=new Scanner(System.in);
         System.out.println("Enter number of elements in array");
         int n=in.nextInt();
-        int nums[] = new int[n];
+        int[] nums = new int[n];
         System.out.println("Enter array elements");
         for(int i=0;i<n;i++)
         {
