@@ -1,4 +1,4 @@
-package A1SimpleJavaPrograms;;
+package A1SimpleJavaPrograms;
 
 import java.util.Scanner;
 
