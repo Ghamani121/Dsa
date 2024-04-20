@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-class Solution {
+class CustomerWealth{
     public int maximumWealth(int[][] accounts) {
         //my approach
 //        int[] wealth=new int[accounts.length];
@@ -49,7 +49,7 @@ class Solution {
                 accounts[i][j]= in.nextInt();
             }
         }
-        Solution s=new Solution();
+        CustomerWealth s=new CustomerWealth();
         int max =s.maximumWealth(accounts);
         System.out.println("Richest customer has wealth of "+max);
     }
