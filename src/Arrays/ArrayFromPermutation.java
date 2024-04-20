@@ -1,13 +1,7 @@
 package Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
-//public class ArrayFromPermutation
-//{
-//    public static void main(String[] args) {
-//
-//    }
-//}
-class Solution {
+class ArrayFromPermutation {
     public int[] buildArray(int[] nums) {
         int ans[]=new int[nums.length];
         for(int i=0;i<nums.length;i++)
@@ -27,7 +21,7 @@ class Solution {
         {
             nums[i]=in.nextInt();
         }
-        Solution s=new Solution();
+        ArrayFromPermutation s=new ArrayFromPermutation();
         System.out.println(Arrays.toString(s.buildArray(nums)));   //best way to print arrays
     }
 }
