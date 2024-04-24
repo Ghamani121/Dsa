@@ -1,4 +1,4 @@
-package Arrays;
+package A3Arrays;
 
 import java.util.Scanner;
 

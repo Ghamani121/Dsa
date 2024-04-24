@@ -1,11 +1,11 @@
-package Arrays;
+package A3Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 class RunningSum{
     public int[] runningSum(int[] nums) {
-        int ans[]=new int[nums.length];
+        int[] ans=new int[nums.length];
         ans[0]=nums[0];
         for(int i=1;i<nums.length;i++)
         {

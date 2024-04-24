@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/GoodPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ShuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3Arrays/GoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3Arrays/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3Arrays/TargetArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayFromPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/ArrayFromPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ConcatArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/ConcatArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/CustomerWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/CustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/GoodPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RunningSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/RunningSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ShuffleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/ShuffleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/candy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3Arrays/candy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

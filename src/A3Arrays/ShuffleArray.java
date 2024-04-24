@@ -1,18 +1,22 @@
-package Arrays;
+package A3Arrays;
+
 import java.util.Arrays;
 import java.util.Scanner;
-class ArrayFromPermutation {
-    public int[] buildArray(int[] nums) {
+
+public class ShuffleArray {
+    public int[] shufflearray(int[] nums) {
         int ans[]=new int[nums.length];
-        for(int i=0;i<nums.length;i++)
+        int half= nums.length/2;
+        for(int i=0,j=0;i<half;i+=2,j++)
         {
-            ans[i]=nums[nums[i]];
+            ans[i]=nums[j];
+            ans[i+1]=nums[half];
+            half++;
         }
         return ans;
     }
-
     public static void main(String[] args) {
-        Scanner in =new Scanner(System.in);
+        Scanner in=new Scanner(System.in);
         System.out.println("Enter array length");
         int n=in.nextInt();
         int nums[]=new int[n];
@@ -21,7 +25,7 @@ class ArrayFromPermutation {
         {
             nums[i]=in.nextInt();
         }
-        ArrayFromPermutation s=new ArrayFromPermutation();
-        System.out.println(Arrays.toString(s.buildArray(nums)));   //best way to print arrays
+        ShuffleArray s=new ShuffleArray();
+        System.out.println(Arrays.toString(s.shufflearray(nums)));
     }
 }
