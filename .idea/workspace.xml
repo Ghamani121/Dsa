@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A3Arrays/FirstnLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3Arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3Arrays/jumpgame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
