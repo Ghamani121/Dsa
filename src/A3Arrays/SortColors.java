@@ -36,7 +36,7 @@ class SortColors {
             {
                 swap(nums,low,mid);
                 low++;
-                mid++;
+                mid++;//
             }
             else if(nums[mid]==1) mid++;
             else
