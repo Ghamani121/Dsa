@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Searching/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/CeilingOfANo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/SearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/guessGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,5 +65,10 @@
       <updated>1712513084746</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dsa$CeilingOfANo.ic" NAME="CeilingOfANo Coverage Results" MODIFIED="1715593363509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Searching.*</FILTER>
+    </SUITE>
   </component>
 </project>
