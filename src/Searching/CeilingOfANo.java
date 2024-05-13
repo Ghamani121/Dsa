@@ -10,6 +10,7 @@ public class CeilingOfANo //smallest number that is greater or equal to target e
     static int Ceiling(int[] a,int target)
     {
         int start=0,end=a.length-1,mid=0;
+        if(target<a[0]) return -1;//when target is less than the smallest number i.e, target=1
         while(start<=end)
         {
             mid=start+(end-start)/2;
