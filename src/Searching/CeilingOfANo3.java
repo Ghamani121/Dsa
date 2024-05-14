@@ -1,6 +1,6 @@
 package Searching;
 
-public class CeilingOfANo //smallest number that is greater or equal to target element
+public class CeilingOfANo3 //smallest number that is greater or equal to target element
 {
     public static void main(String[] args) {
         int a[]={2,3,5,9,14,16};

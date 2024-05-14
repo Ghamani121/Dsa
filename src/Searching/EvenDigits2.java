@@ -1,6 +1,6 @@
 package Searching;
 
-public class EvenDigits {
+public class EvenDigits2 {
     public static void main(String[] args) {
         int[] nums={18,124,9,-1764};
         System.out.println(findNumbers(nums));

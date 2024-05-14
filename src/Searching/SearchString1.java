@@ -1,6 +1,6 @@
 package Searching;
 
-public class SearchString {
+public class SearchString1 {
     public static void main(String[] args) {
         String name="Kunal";
         char target='h';
