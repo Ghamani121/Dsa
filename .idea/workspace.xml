@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Searching/findfirstandlastpposition5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/InfiniteArrayConcept6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/CeilingOfANo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/CeilingOfANo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/EvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/EvenDigits2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/NextGreatestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/NextGreatestLetter4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/SearchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/SearchString1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/Square00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/guessGame01" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
