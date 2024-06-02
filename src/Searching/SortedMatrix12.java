@@ -10,6 +10,7 @@ public class SortedMatrix12 {
         };
         System.out.println(Arrays.toString(search(arr, 9)));
     }
+
     // search in the row provided between the cols provided
     static int[] binarySearch(int[][] matrix, int row, int cStart, int cEnd, int target) {
         while (cStart <= cEnd) {
@@ -29,11 +30,11 @@ public class SortedMatrix12 {
     static int[] search(int[][] matrix, int target) {
         int rows = matrix.length;
         int cols = matrix[0].length; // be cautious, matrix may be empty
-        if (cols == 0){
-            return new int[] {-1,-1};
+        if (cols == 0) {
+            return new int[]{-1, -1};
         }
         if (rows == 1) {
-            return binarySearch(matrix,0, 0, cols-1, target);
+            return binarySearch(matrix, 0, 0, cols - 1, target);
         }
 
         int rStart = 0;
@@ -42,39 +43,40 @@ public class SortedMatrix12 {
 
         // run the loop till 2 rows are remaining
         while (rStart < (rEnd - 1)) { // while this is true it will have more than 2 rows
-            int mid = rStart + (rEnd - rStart) / 2;
-            if (matrix[mid][cMid] == target) {
-                return new int[]{mid, cMid};
+            int rmid = rStart + (rEnd - rStart) / 2;
+            if (matrix[rmid][cMid] == target) {
+                return new int[]{rmid, cMid};
             }
-            if (matrix[mid][cMid] < target) {
-                rStart = mid;
+            if (matrix[rmid][cMid] < target) {
+                rStart = rmid;//moves to rmid row
             } else {
-                rEnd = mid;
+                rEnd = rmid;//moves to rmid rowprevious row and search takes place on left side of cmid
+            }
+
+            // now we have two rows
+            // check whether the target is in the col of 2 rows
+            if (matrix[rStart][cMid] == target) {
+                return new int[]{rStart, cMid};
+            }
+            if (matrix[rStart + 1][cMid] == target) {
+                return new int[]{rStart + 1, cMid};
+            }
+
+            // search in 1st half
+            if (target <= matrix[rStart][cMid - 1]) {
+                return binarySearch(matrix, rStart, 0, cMid - 1, target);
+            }
+            // search in 2nd half
+            if (target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
+                return binarySearch(matrix, rStart, cMid + 1, cols - 1, target);
+            }
+            // search in 3rd half
+            if (target <= matrix[rStart + 1][cMid - 1]) {
+                return binarySearch(matrix, rStart + 1, 0, cMid - 1, target);
+            } else {
+                return binarySearch(matrix, rStart + 1, cMid + 1, cols - 1, target);
             }
         }
-
-        // now we have two rows
-        // check whether the target is in the col of 2 rows
-        if (matrix[rStart][cMid] == target) {
-            return new int[]{rStart, cMid};
-        }
-        if (matrix[rStart + 1][cMid] == target) {
-            return new int[]{rStart + 1, cMid};
-        }
-
-        // search in 1st half
-        if (target <= matrix[rStart][cMid - 1]) {
-            return binarySearch(matrix, rStart, 0, cMid-1, target);
-        }
-        // search in 2nd half
-        if (target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
-            return binarySearch(matrix, rStart, cMid + 1, cols - 1, target);
-        }
-        // search in 3rd half
-        if (target <= matrix[rStart + 1][cMid - 1]) {
-            return binarySearch(matrix, rStart + 1, 0, cMid-1, target);
-        } else {
-            return binarySearch(matrix, rStart + 1, cMid + 1, cols - 1, target);
-        }
+        return new int[]{-1, -1};
     }
 }
