@@ -1,4 +1,5 @@
 package Searching;
 
-public class CountnegativeInSortedmatrix20 {
-}
+import java.util.Arrays;
+
+public class CountnegativeInSortedmatrix20
