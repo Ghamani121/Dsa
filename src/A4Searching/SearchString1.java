@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class SearchString1 {
     public static void main(String[] args) {

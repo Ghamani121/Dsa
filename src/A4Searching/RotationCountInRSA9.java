@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class RotationCountInRSA9 {
     public static void main(String[] args) {

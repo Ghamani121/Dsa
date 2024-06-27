@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 //public class TwoSum14 {
 //        public int[] twoSum(int[] numbers, int target) {

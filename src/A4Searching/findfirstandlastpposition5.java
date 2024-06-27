@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 class findfirstandlastpposition5 {
     public int[] searchRange(int[] nums, int target) {

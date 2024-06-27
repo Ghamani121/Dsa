@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class koko24{
     public int minEatingSpeed(int[] piles, int h) {

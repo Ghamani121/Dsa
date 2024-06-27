@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class CeilingOfANo3 //smallest number that is greater or equal to target element
 {

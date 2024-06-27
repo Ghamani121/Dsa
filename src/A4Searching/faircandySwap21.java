@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 import java.util.Arrays;
 

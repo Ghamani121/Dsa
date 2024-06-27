@@ -5,10 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/S1Arrays/Q1SecondLArgest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Q1Secondlargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/Q1Secondlargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searching/ReachANumber28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/ReachANumber26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/ArrangingCoins16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/ArrangingCoins16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/CeilingOfANo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/CeilingOfANo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/CountNegativeInMatrix18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/CountNegativeInMatrix18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/CountnegativeInSortedmatrix20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/CountnegativeInSortedmatrix20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/EvenDigits2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/EvenDigits2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/FindDouble22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/FindDouble22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/InfiniteArrayConcept6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/InfiniteArrayConcept6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/IntersectionOfElments19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/IntersectionOfElments19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/Kth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/Kth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/MountainArray7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/MountainArray7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/NextGreatestLetter4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/NextGreatestLetter4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/PerfectSquare15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/PerfectSquare15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/ReachANumber26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/ReachANumber26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/RoatatedSortedArray8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/RoatatedSortedArray8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/RotationCountInRSA9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/RotationCountInRSA9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SearchInRotatedArray26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SearchInRotatedArray26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SearchInRotatedArrayII27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SearchInRotatedArrayII27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SearchIntege17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SearchIntege17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SearchString1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SearchString1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SearchingInMatrix11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SearchingInMatrix11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SingleElementInSortedArray25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SingleElementInSortedArray25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SortedMatrix12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SortedMatrix12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/SplitArrayLargetSum10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/SplitArrayLargetSum10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/Square00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/Square00.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/TwoSum14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/TwoSum14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/faircandySwap21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/faircandySwap21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/findfirstandlastpposition5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/findfirstandlastpposition5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/guessGame01" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/guessGame01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/isBadVersion13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/isBadVersion13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/koko24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/koko24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/specialArray23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A4Searching/specialArray23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

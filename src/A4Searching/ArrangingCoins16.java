@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class ArrangingCoins16 {
         public int arrangeCoins(int n) {

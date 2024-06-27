@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class SingleElementInSortedArray25 {
         public int singleNonDuplicate(int[] nums) {

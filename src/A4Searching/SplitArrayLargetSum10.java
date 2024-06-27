@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 class SplitArrayLargetSum10  {
     public int splitArray(int[] nums, int k) {

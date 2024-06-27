@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 //infinite meaning try to do it without using length function
 public class InfiniteArrayConcept6 {

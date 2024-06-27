@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class EvenDigits2 {
     public static void main(String[] args) {

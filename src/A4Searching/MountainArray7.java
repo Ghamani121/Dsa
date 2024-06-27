@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 class MountainArray7 {
     public int peakIndexInMountainArray(int[] arr) {

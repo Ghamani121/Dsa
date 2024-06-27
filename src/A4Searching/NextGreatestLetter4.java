@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 class NextGreatestLetter4 {
     public char nextGreatestLetter(char[] letters, char target) {

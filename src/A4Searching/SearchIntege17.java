@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class SearchIntege17 {
     public int searchInsert(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class SearchInRotatedArray26 {
     public int search(int[] nums, int target)

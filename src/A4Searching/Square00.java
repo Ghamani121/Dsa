@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
     class Square00 {
         public int mySqrt(int x) {
             int start=1,end=x,mid=0;

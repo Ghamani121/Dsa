@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class ReachANumber26  {
     public int reachNumber(int target) {

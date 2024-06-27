@@ -1,4 +1,4 @@
-package Searching;
+package A4Searching;
 
 public class PerfectSquare15{
         public boolean isPerfectSquare(int num) {
