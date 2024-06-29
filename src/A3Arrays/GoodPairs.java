@@ -24,7 +24,7 @@ class Solution {
         {
             nums[i]=in.nextInt();
         }
-        Solution s=new Solution();
+        candy s=new candy();
         int ans= s.numIdenticalPairs(nums);
         System.out.println(ans);
     }
