@@ -7,7 +7,7 @@ class TargetArray {
         ArrayList<Integer> targetlist=new ArrayList<>();
         for(int i=0;i< nums.length;i++)
         {
-              targetlist.add(index[i],nums[i]);
+              targetlist.add(index[i],nums[i]);//name.add(index,value)
 //            System.out.println(target[index[i]]+"  "+nums[i]+"  "+index[i]);
         }
         int[] targetarray=new int[nums.length];
