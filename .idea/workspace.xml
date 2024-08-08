@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b26eaf-734a-4fab-ba9d-aaa932453489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collection/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaNptel/Objects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ghamani\Desktop\Projects\Dsa\src" />
     </key>
