@@ -2,14 +2,18 @@ package JavaNptel;
 
 public class Objects
 {
-    public name()
+    private String name;
+    Objects(String name)
     {
-
+        this.name=name;
+        System.out.println("hi");
     }
+
     public static void main(String[] args) {
         //create a new object
-        Object ob= new Object();
+        Objects ob= new Objects();
         ob.name="ghamani";
     }
 
 }
+
